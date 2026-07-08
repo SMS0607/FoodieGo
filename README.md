@@ -101,4 +101,4 @@ I'm a Flutter developer specializing in cross-platform mobile apps with Firebase
 
 ---
 
-<p align="center">Built with ❤️ using Flutter</p>
+<p align="center">Built with ❤️ using Flutter, by Soham Shinde</p>
