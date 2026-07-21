@@ -40,7 +40,6 @@ FoodieGo is a fully functional, end-to-end food ordering experience — from bro
 ---
 
 ## 🎨 Design Highlights
-
 - Custom design system — consistent colors, typography & spacing
 - Primary color `#FF6B35` · Background `#F0F1F5`
 - Curved header clipper on Profile screens
@@ -51,12 +50,21 @@ FoodieGo is a fully functional, end-to-end food ordering experience — from bro
 
 ## 📱 Screenshots
 
-<!-- Add screenshots here -->
-<!-- Example:
-| Splash | Login | Home |
-|--------|-------|------|
-| ![Splash](screenshots/splash.png) | ![Login](screenshots/login.png) | ![Home](screenshots/home.png) |
--->
+| Splash | Welcome | Phone Login |
+|--------|---------|-------------|
+| ![Splash](screenshots/Splash_Screen.jpg) | ![Welcome](screenshots/Welcome_Screen.jpg) | ![Phone Login](screenshots/Phone_No_Log_in_Screen.jpg) |
+
+| OTP | Home | Location |
+|-----|------|----------|
+| ![OTP](screenshots/OTP_Screen.jpg) | ![Home](screenshots/Home_Screen.jpg) | ![Location](screenshots/Location_Screen.jpg) |
+
+| Menu Detail | My Cart | Order Summary |
+|-------------|---------|----------------|
+| ![Menu Detail](screenshots/Menu_Detail_Screen.jpg) | ![My Cart](screenshots/My_Cart_Screen.jpg) | ![Order Summary](screenshots/Order_Summary_Screen.jpg) |
+
+| Order History | Profile | Register |
+|----------------|---------|----------|
+| ![Order History](screenshots/Order_Histroy_Screen.jpg) | ![Profile](screenshots/Profile_Screen.jpg) | ![Register](screenshots/Register_Screen.jpg) |
 
 ---
 
