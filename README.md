@@ -105,7 +105,7 @@ This repository is a **showcase page** for the FoodieGo project. The full source
 
 I'm a Flutter developer specializing in cross-platform mobile apps with Firebase backends. If you liked what you saw, let's talk about your project.
 
-**Contra:** [Your Contra Profile Link]
+**Contra:** [[Your Contra Profile Link](https://contra.com/soham_shinde_06x07y04z?referralExperimentNid=DEFAULT_REFERRAL_PROGRAM&referrerUsername=soham_shinde_06x07y04z)]
 
 ---
 
